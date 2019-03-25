@@ -93,7 +93,7 @@ public:
 
 int main(){
   FAST;
-  freopen("in.in", "r", stdin);freopen("out.out", "w", stdout);
+  //freopen("in.in", "r", stdin);freopen("out.out", "w", stdout);
   int T, tc = 1;
   cin >> T;
   while(T--){
